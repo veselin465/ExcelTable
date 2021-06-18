@@ -1,0 +1,27 @@
+var class_cell_formula =
+[
+    [ "CellFormula", "class_cell_formula.html#a4fedb1e08f56b4aed4911942680910cc", null ],
+    [ "CellFormula", "class_cell_formula.html#aa99eba70c9839bb7e99cab9e74b2ded4", null ],
+    [ "CellFormula", "class_cell_formula.html#aa278b11d8ded3603076e454d82e78384", null ],
+    [ "calculateFormula", "class_cell_formula.html#aec6f823acefcb90a481a71bce209ed3f", null ],
+    [ "calculateFormulaRecursively", "class_cell_formula.html#a26034dd41d7824cba72e7851b2cba748", null ],
+    [ "clone", "class_cell_formula.html#ae0b48bb27a442193dea299b843fbea81", null ],
+    [ "error", "class_cell_formula.html#ad507cd89a838f678d96f7cd978a7663f", null ],
+    [ "extractCellValue", "class_cell_formula.html#a0be4fe746c47291661d19c992db8987e", null ],
+    [ "getConstructString", "class_cell_formula.html#ac794c0bd0f399c20273233f0d0c2032c", null ],
+    [ "getDisplayableString", "class_cell_formula.html#ad8625d11a59e4ca8badae201e5787106", null ],
+    [ "getPointer", "class_cell_formula.html#a354cbe5c25d57bbbc72061feac6b8206", null ],
+    [ "getValue", "class_cell_formula.html#ad349e011411176f141eeecec5d5f4e3e", null ],
+    [ "isValid", "class_cell_formula.html#afdaa1d1859594d7526a9e8a974954a14", null ],
+    [ "recalculate", "class_cell_formula.html#a4d8acb22ef1c0f358098651219eb63af", null ],
+    [ "seekFirstOperation", "class_cell_formula.html#a3bb1bae63c49ed753c9ed276d9d6e823", null ],
+    [ "seekLastOperation", "class_cell_formula.html#a30be677fca161b775e556735ab151827", null ],
+    [ "setValue", "class_cell_formula.html#a523bc4c6cb5549e8974d37ccd479d3c9", null ],
+    [ "trimEntirely", "class_cell_formula.html#abe274619d4d60ca30b4cafb46bbd5bce", null ],
+    [ "trimZeroes", "class_cell_formula.html#a4a79ae8495da5dfff9ed08c921b870e8", null ],
+    [ "error_", "class_cell_formula.html#ae7bc514d38f0039065d3cbf5a53a168d", null ],
+    [ "formula_", "class_cell_formula.html#a1bbcc63d08a950b0d6778b77cb14c489", null ],
+    [ "result_", "class_cell_formula.html#adff415e33cfa0eec80cad49432841183", null ],
+    [ "tableRef_", "class_cell_formula.html#ae03205be7ae3a15b907e92cfee1fab41", null ],
+    [ "zero_", "class_cell_formula.html#a1ef5974c58fa5213663ed1e0921a2261", null ]
+];
